@@ -1,0 +1,18 @@
+html {
+  font-size: "Montserrat", sans-serif;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: rem-calc(50);
+}
+@media (max-width: 425px) {
+  h1 {
+    font-size: rem-calc(33);
+  }
+}/*# sourceMappingURL=elements.css.map */

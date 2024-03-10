@@ -1,0 +1,100 @@
+ /* NAVBAR START */
+  
+ .navbar{
+	display: in;
+	background: rgb(245, 245, 245);
+}
+.navbar .navleft{
+		display: inline-flex;
+		height: 40px;
+}
+
+.header .logo{
+  color: black;
+  font-size: 16px;
+  font-weight: bold;
+	padding: 10px 80px 20px 5px;
+  margin: 0px 10px 10px 10px;
+}
+
+.header .home{
+	color: rgb(0, 0, 0);
+	padding: 10px 80px 20px 5px;
+	font-size: 14px;
+}
+
+.header .about{
+	color: rgb(0, 0, 0);
+	padding: 10px 80px 20px 5px;
+	font-size: 14px;
+}
+
+.header .schedule{
+	color: rgb(0, 0, 0);
+	padding: 10px 80px 20px 5px;
+	font-size: 14px;
+}
+
+.header .speakers{
+	color: rgb(0, 0, 0);
+	padding: 10px 10px 0px 3px;
+	font-size: 14px;
+}
+
+.header .register{
+	color: rgb(0, 0, 0);
+	padding: 10px 80px 20px 60px;
+	font-size: 14px;
+}
+
+.header .contactus{
+	padding: 10px 80px 20px 5px;
+	color: rgb(0, 0, 0);
+	font-size: 14px;
+
+}
+
+.logo{
+	padding-right: 300px;
+}
+
+a {
+	color: black;
+    text-decoration: underline;
+	padding-right: 10px;
+}
+/* @media (max-width: 1023px) {
+  .header .navbar {
+	  flex-wrap: wrap;
+		  max-width: 100%;
+  }
+  .header .navbar .navright{
+	  padding-left: 90px;
+  }
+
+}
+@media (max-width: 767px) {
+  .header .navbar .navleft{
+  flex-direction: column;
+  }
+
+  .header .navbar .navright{
+	  flex-direction: column;
+	  padding-left: 10px;
+  }
+  .header .navbar{
+	  flex-direction: column;
+  }
+  .header .navbar a{
+	  padding: 10px;
+  }
+
+  .header .logo {
+  padding: 5px 0px 5px 10px;
+  }
+  .header .navbar div {
+  padding: 10px;
+  }
+} */
+
+/* NAVBAR ENDS */

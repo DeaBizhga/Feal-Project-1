@@ -1,0 +1,30 @@
+.cont-footer{
+    background-color: rgb(245, 245, 245);
+    margin-top: 50px;
+    height: 290px;
+  }
+  
+  .cont-footer h5{
+    font-size: 14px;
+    color: rgb(75, 75, 75);
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-top: 20px;
+  }
+  
+  .cont-footer a{
+    font-size: 14px;
+    margin-left: 20px;
+    margin-top: 30px;
+    text-decoration: none;
+  }
+  
+  .cont-footer p{
+    padding-top: 30px;
+    font-size: 15px;
+    font-weight: 500;
+  }
+  
+  .cont-footer #top{
+    margin-left: 1200px;
+  }
